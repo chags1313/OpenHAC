@@ -1,10 +1,10 @@
-<p align="center"><img src="https://i.pinimg.com/originals/c9/ee/aa/c9eeaa9cd192096a119efe2af933bd87.gif" alt="Gray shape shifter" height="60"/></a></p>
+<p align="center"><img src="https://i.pinimg.com/originals/c9/ee/aa/c9eeaa9cd192096a119efe2af933bd87.gif" alt="Gray shape shifter" height="60"/></p>
 <h1 align="center">Digital-biomarker Analysis and Machine Learning Toolkit</h1>
 <p align="center">A graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.</p>
 
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://github.com/chags1313/D-BAMLT/blob/main/docs/face.gif?raw=true" width="100%"/></a></p><br/>
 
-<h1 align="center">Features</h1>
+<h1 align="left">Features</h1>
 
 <h1 align="left"><b>Digital biomarker extraction</b></h1>
  
@@ -71,7 +71,7 @@
          - Right ankle
    - Heart rate 
 
-<h1 align="left"> <b>Machine learning creation, analysis, and deployment </b></h1>
+<h1 align="left"> <b>Classifier creation and deployment</b></h1>
   
   - Data preprocessing
    - Automated model comparisons
