@@ -1,6 +1,6 @@
-# About D-BAMLT
+# Digital-biomarker Analysis and Machine Learning Toolkit
 
-## Digital-biomarker Analysis and Machine Learning Toolkit
+## About
 D-BMALT is a graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.
 
 Key features
