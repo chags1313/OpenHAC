@@ -10,10 +10,26 @@ D-BAMLT is built on existing software packages used to quantify behavioral chara
 
 <h1 align="Left">Getting started</h1>
 
-Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/) page.
+Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/)!.
 
 <h1 align="Left">Aims</h1>
 
 We hope this platform increases accessibility of objective and sensitive digital biomarker analysis while also encouraging the exploration and creation of novel tools for digitial phenotyping.  
 
+<h1 align="Left">References</h1>
+
+This repository was built upon the great works of many researchers and developers. Most notably:
+
+* OpenFace
+* OpenDBM
+* OpenCv
+* PyQt
+
+We hope to maintain a symbiotic relationship with these, as well as other, amazing tools in the future as this continues to grow.
+
+<h1 align="Left">Contributions</h1>
+
+Cole Hagen, Chantel Barney, Liz Boyer, Lisa Lykken, and Abbie Raiter
+
+<i>Please reach out to chags1313@gmail.com for any questions on contributing or using D-BMALT.</i>
 
