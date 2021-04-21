@@ -5,6 +5,7 @@
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://github.com/chags1313/D-BAMLT/blob/main/docs/face.gif?raw=true" width="100%"/></a></p><br/>
 
 <h1 align="center">Features</h1>
+
 - <b>Digital biomarker extraction</b>
    - Facial behavior
       - Facial landmarks
