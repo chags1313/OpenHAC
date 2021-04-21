@@ -5,15 +5,68 @@ D-BMALT is a graphical user interface for researchers, scholars, and citizen sci
 
 Key features
 - Digital biomarker extraction
-   - Face-head-gaze 
+   - Facial behavior
       - Facial landmarks
-      - Gaze
-      - Pose
+      - Facial landmark displacement
       - Action units
+         - AU1: Inner brow raiser
+         - AU2: Outer brow raiser
+         - AU4: Brow lowerer
+         - AU5: Upper lid raiser
+         - AU7 Lid tightener
+         - AU9: Nose wrinkler
+         - AU12: Lip corner puller
+         - AU15: Lip corner depressor
+         - AU16: Lower lip depressor
+         - AU20: Lip stretcher
+         - AU23: Lip tightener
+         - AU26: Jaw drop
+         - AU45: Eyes closed
+      - Emotional expressivity
+         - Happiness
+         - Sadness
+         - Suprise
+         - Fear
+         - Anger
+         - Disgust
+         - Contempt
+      - Overall expressivity
+      - Pain expressivity
+      - Facial asymmetry
+   - Head movement
+      - Euclidean head movement
+      - Head pitch angle
+      - Head yaw angle
+      - Head roll angle
+      - Angular head movement
+   - Eye blink behavior
+      - Eye aspect ratio
+      - Eye blink times
+      - Duration between blinks
+   - Eye gaze directionality 
+      - Eye coordinates
+   - Facial tremor
    - Human body pose 
       - Body key points
+         - Nose
+         - Left eye
+         - Right eye
+         - Left ear
+         - Right ear
+         - Neck
+         - Left shoulder
+         - Right shoulder
+         - Left elbow
+         - Right elbow
+         - Left wrist
+         - Right wrist
+         - Left hip
+         - Right hip
+         - Left knee
+         - Right knee
+         - Left ankle
+         - Right ankle
    - Heart rate 
-      - Rate and accuracy 
 - Machine learning creation, analysis, and deployment 
    - Data preprocessing
    - Automated model comparisons
