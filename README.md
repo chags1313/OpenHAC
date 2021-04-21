@@ -6,8 +6,9 @@
 
 <h1 align="center">Features</h1>
 
-- <b>Digital biomarker extraction</b>
-   - Facial behavior
+<h1 align="left"><b>Digital biomarker extraction</b></h1>
+ 
+ - Facial behavior
       - Facial landmarks
       - Facial landmark displacement
       - Action units
@@ -69,8 +70,10 @@
          - Left ankle
          - Right ankle
    - Heart rate 
-- <b>Machine learning creation, analysis, and deployment </b>
-   - Data preprocessing
+
+<h1 align="left"> <b>Machine learning creation, analysis, and deployment </b></h1>
+  
+  - Data preprocessing
    - Automated model comparisons
    - Model selection and assessment
       - Linear regression
@@ -90,4 +93,4 @@
       - Blended model (top 3 models)
    - Compare model metrics using loaded data
    - Analyze and plot model data
-   - Save, load, and deploy 
+   - Save, load, and deploy
