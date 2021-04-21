@@ -5,6 +5,7 @@
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://github.com/chags1313/D-BAMLT/blob/main/docs/face.gif?raw=true" width="100%"/></a></p><br/>
 
 <h1 align="Left">About</h1>
+
 D-BAMLT is built on existing software packages used to quantify behavioral characteristics and build machine learning classifiers.
 
 Through D-BAMLT, a user can objectively and sensitively measure behavioral characteristics such as facial activity, oculomotion, patterns of movement, body key points, and heart rate. From those behavioral characteristics, they can measure clinically meaningful symptomatology such as emotional expressivity, pain expressivity, and more. 
