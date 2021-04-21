@@ -1,9 +1,8 @@
-# Digital-biomarker Analysis and Machine Learning Toolkit
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="Gray shape shifter" height="60"/></a></p>
+<h1 align="center">Digital-biomarker Analysis and Machine Learning Toolkit</h1>
+<p align="center">A graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.</p>
 
-![image](https://user-images.githubusercontent.com/61998370/115579294-a2c67100-a28b-11eb-9e17-501eb05f9d89.png)
-
-## About
-D-BMALT is a graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.
+<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://github.com/chags1313/D-BAMLT/blob/main/docs/face.gif?raw=true" width="100%"/></a></p><br/>
 
 Key features
 - <b>Digital biomarker extraction</b>
