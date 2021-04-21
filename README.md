@@ -34,5 +34,5 @@ This repository was built upon the great works of many researchers and developer
 
 Cole Hagen, Dr. Chantel Barney, Dr. Liz Boyer, Lisa Lykken, and Abbie Raiter
 
-<i>Please reach out to chags1313@gmail.com with any D-BAMLT inquiries.</i>
+<i>Please reach out to [chags1313@gmail.com](chags1313@gmail.com) with any D-BAMLT inquiries.</i>
 
