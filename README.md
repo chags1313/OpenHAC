@@ -4,7 +4,7 @@
 D-BMALT is a graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.
 
 Key features
-- Digital biomarker extraction
+- <b>Digital biomarker extraction</b>
    - Facial behavior
       - Facial landmarks
       - Facial landmark displacement
@@ -67,7 +67,7 @@ Key features
          - Left ankle
          - Right ankle
    - Heart rate 
-- Machine learning creation, analysis, and deployment 
+- <b>Machine learning creation, analysis, and deployment </b>
    - Data preprocessing
    - Automated model comparisons
    - Model selection and assessment
