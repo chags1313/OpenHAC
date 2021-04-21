@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="Gray shape shifter" height="60"/></a></p>
+<p align="center"><img src="https://i.pinimg.com/originals/c9/ee/aa/c9eeaa9cd192096a119efe2af933bd87.gif" alt="Gray shape shifter" height="60"/></a></p>
 <h1 align="center">Digital-biomarker Analysis and Machine Learning Toolkit</h1>
 <p align="center">A graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.</p>
 
