@@ -8,12 +8,12 @@
 D-BAMLT is built on existing software packages used to quantify behavioral characteristics and build machine learning classifiers. Our goal is to decrease the barrier of entry in digital phenotyping to researchers, scholars, and citizen scientists trying to understand the relationship between clinical disorders and their behavioral manifestations. 
 
 
-<h1 align="Left">Installation</h1>
+<h1 align="Left">Getting started</h1>
 
-The goal moving forward is to fully package D-BAMLT so anyone can use it. At present, you must do the following to use the program:
-1. Clone this repository to your local device
-2. Open python terminal
-3. pip install -r requirements
-4. python dbamlt.py
+Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/) page.
+
+<h1 align="Left">Goals</h1>
+
+We hope to encourage researchers to use objective quantification of symptomatology in their analyses and to inspire them to contribute their own code, leading to a central repository of methods. Only by doing so can academia, healthcare, and industry collaborate effectively on the advancement of digital measurement of health and create access to novel tools in digital phenotyping. 
 
 
