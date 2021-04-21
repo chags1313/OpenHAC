@@ -1,5 +1,7 @@
 # Digital-biomarker Analysis and Machine Learning Toolkit
 
+![image](https://user-images.githubusercontent.com/61998370/115579294-a2c67100-a28b-11eb-9e17-501eb05f9d89.png)
+
 ## About
 D-BMALT is a graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.
 
