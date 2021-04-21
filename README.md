@@ -20,12 +20,12 @@ We hope this platform increases accessibility of objective and sensitive digital
 
 This repository was built upon the great works of many researchers and developers. Most notably:
 
-* OpenFace
-* OpenDBM
-* OpenCv
-* PyQt
+* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+* [OpenDBM](https://github.com/AiCure/open_dbm)
+* [OpenCv](https://github.com/opencv/opencv)
+* [PyQt](https://doc.qt.io/qtforpython/)
+* [PyCaret](https://pycaret.org/guide/)
 
-We hope to maintain a symbiotic relationship with these, as well as other, amazing tools in the future as this continues to grow.
 
 <h1 align="Left">Contributions</h1>
 
