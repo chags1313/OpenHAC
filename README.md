@@ -12,8 +12,8 @@ D-BAMLT is built on existing software packages used to quantify behavioral chara
 
 Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/) page.
 
-<h1 align="Left">Goals</h1>
+<h1 align="Left">Aims</h1>
 
-We hope to encourage researchers to use objective quantification of symptomatology in their analyses and to inspire them to contribute their own code, leading to a central repository of methods. Only by doing so can academia, healthcare, and industry collaborate effectively on the advancement of digital measurement of health and create access to novel tools in digital phenotyping. 
+We hope this platform increases accessibility of objective and sensitive digital biomarker analysis while also encouraging the exploration and creation of novel tools for digitial phenotyping.  
 
 
