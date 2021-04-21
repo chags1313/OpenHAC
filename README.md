@@ -12,7 +12,7 @@ Through D-BAMLT, a user can objectively and sensitively measure behavioral chara
 
 D-BAMLT also makes it possible to create, analyze, and extract new digital biomarker features with it’s machine learning classification tools. Combining behavioral characteristics with manual classifications, a user can create effective classifiers for behavioral manifestations such as pain, drowsiness, activity level, and atypical movement––among many others.
 
-Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/).
+Questions/getting started: Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/).
 
 
 <h1 align="Left">Aims</h1>
