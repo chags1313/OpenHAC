@@ -1,6 +1,5 @@
 ## Installation 
 * pip install -r requirements
-* python main.py
 
 
 ## Dependencies 
@@ -15,6 +14,7 @@
 * Specify OpenDBM's process_data.py file path in main.py
 * Specify protoFile path in main.py
 * Specify caffemodel path in main.py
+* run in command prompt "python main.py"
 
 ## Next steps 
 
