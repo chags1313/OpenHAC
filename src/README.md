@@ -15,3 +15,7 @@
 * Specify OpenDBM's process_data.py file path in main.py
 * Specify protoFile path in main.py
 * Specify caffemodel path in main.py
+
+## Next steps 
+
+* Package application in an exe file. 
