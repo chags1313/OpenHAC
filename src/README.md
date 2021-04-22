@@ -19,6 +19,6 @@
 ## Next steps 
 
 * Package application in an exe file using [pyinstaller](https://www.pyinstaller.org/) or [fbs](https://build-system.fman.io/)
-* If your build goes well, feel free to share! If it doesn't, contact me @ [chags1313@gmail.com](chags1313@gmail.com)
+* If your build goes well, feel free to share! If it doesn't, post an issue describing the error you recieved. 
 
 The goal is to have a working exe for all to use in the future. This will take some time, since we still need to get all functions working properly and clean the code and UI. 
