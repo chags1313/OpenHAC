@@ -10,14 +10,14 @@ OpenHAC is built on existing software packages used to quantify behavioral chara
 
 Through OpenHAC, a user can objectively and sensitively measure behavioral characteristics such as facial activity, oculomotion, patterns of movement, body key points, and heart rate. From those behavioral characteristics, they can measure clinically meaningful symptomatology such as emotional expressivity, pain expressivity, and more. 
 
-OpenHAC also makes it possible to create, analyze, and extract new digital biomarker features with it’s machine learning classification tools. Combining behavioral characteristics with manual classifications, a user can create effective classifiers for behavioral manifestations such as pain, drowsiness, activity level, and atypical movement––among many others.
+OpenHAC also makes it possible to create, analyze, and extract digital biomarkers with it’s machine learning classification tools. Combining behavioral characteristics with manual classifications, a user can create effective classifiers for behavioral manifestations such as pain, drowsiness, activity level, and atypical movement––among many others.
 
 Questions/getting started: Visit the [wiki](https://github.com/chags1313/D-BAMLT/wiki/).
 
 
 <h1 align="Left">Aims</h1>
 
-We hope this platform increases accessibility of objective and sensitive digital biomarker tools while also encouraging the exploration and creation of novel solutions for digitial phenotyping.  
+We hope this platform increases accessibility of objective and sensitive digital biomarker tools while also encouraging the exploration and creation of novel solutions for human activity phenotyping.  
 
 <h1 align="Left">References</h1>
 
