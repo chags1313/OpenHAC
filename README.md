@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/c9/ee/aa/c9eeaa9cd192096a119efe2af933bd87.gif" alt="Gray shape shifter" height="60"/></p>
 <h1 align="center">Open Human Activity Classification</h1>
-<p align="center">A graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.</p>
+<h2 align="center">A graphical user interface for researchers, scholars, and citizen scientists to peform digital biomarker extraction, video analysis, and machine learning creation and deployment.</h2>
 
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://github.com/chags1313/D-BAMLT/blob/main/docs/face.gif?raw=true" width="100%"/></a></p><br/>
 
