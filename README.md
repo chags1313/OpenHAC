@@ -29,7 +29,7 @@ This repository was built upon the great works of many researchers and developer
 * [PyQt](https://doc.qt.io/qtforpython/)
 * [PyCaret](https://pycaret.org/guide/)
 
-Medium article: https://cole-hagen.medium.com/introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad
+View the Medium [article](https://cole-hagen.medium.com/introducing-openhac-an-open-source-toolkit-for-digital-biomarker-analysis-and-machine-learning-6e107c4524ad).
 
 <i>Please reach out to [hagencolej@gmail.com](hagencolej@gmail.com) with any OpenHAC inquiries.</i>
 
